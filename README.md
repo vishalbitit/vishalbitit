@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal Saxena
+- 👋 Hi, I’m Vishal Saxena working as a data architect.
 - 👀 I work on cloud migrations on AWS, bigdata techstack including spark, hadoop, HDFS, Yarn, Sqoop, Hive, AWS bigdata services such as Glue, S3, Athena, Redshift, DMS, etc.
 - 📫 Reach me at vishalbitit@gmail.com
 
